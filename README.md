@@ -102,7 +102,7 @@ mpeg-dash-qlearning-abr/
 │       └── r2aqlearning.py      # Algoritmo ABR (classe R2AQlearning)
 ├── docs/
 │   ├── relatorio.pdf            # Relatório técnico
-│   └── figures/                 # Gráficos de resultados
+│ 
 ├── requirements.txt
 ├── LICENSE
 └── README.md
